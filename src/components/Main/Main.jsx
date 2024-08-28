@@ -20,6 +20,7 @@ export default function Main() {
                 <img id="snack" src={image} alt="Lanche" />
                 <figcaption>BATEU AQUELA <span>#FOME</span> DE <span>MÉQUI</span>?</figcaption>
             </S.Product>
+            
             <S.Snacks>
                 <div>
                     <figure>
